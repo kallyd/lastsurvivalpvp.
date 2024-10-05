@@ -1,7 +1,7 @@
 {   
 	"Version": "1.00",
-	"FileList":"http://morgado2.duckdns.org:3390/Update/filelist.json",
-	"DownloadUpdate": "http://morgado2.duckdns.org:3390/ClientGame/",		
+	"FileList":"http://morgado2.duckdns.org:3390/UpdatePVP/filelist.json",
+	"DownloadUpdate": "http://morgado2.duckdns.org:3390/ClientGamePVP/",		
 	"News": [
 		"https://spard2.github.io/dayzupdate/News/0.png",
 		"https://spard2.github.io/dayzupdate/News/1.png",
